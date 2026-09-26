@@ -1,0 +1,10 @@
+{
+  "name": "autoport-bot",
+  "version": "1.0.0",
+  "description": "Autoport Jamoasi Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {}
+}
